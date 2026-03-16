@@ -1,2 +1,2 @@
-# ashokcollage-demo-
+# ashokcollage-demo
 This is my Git repository 
